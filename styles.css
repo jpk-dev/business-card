@@ -1,10 +1,6 @@
 body {
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
+  
     font-family: Courier New, Courier, monospace;
     
 }
@@ -47,12 +43,7 @@ body {
     animation-duration: 20s;
     animation-iteration-count: infinite;
    
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
+    
 }
 
 .text_morph{
@@ -73,15 +64,4 @@ h3:hover {
     color: #022B3A;
     text-shadow: 1px 1px #E1E5F2;
 }
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
